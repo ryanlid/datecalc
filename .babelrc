@@ -1,0 +1,5 @@
+{
+  "presets": ["es2015","minify"],
+  "ignore": ["node_modules"],
+  "comments": false
+}
