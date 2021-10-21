@@ -6,6 +6,8 @@
 
 🍩 Preview : https://datecalc.ryanlid.repl.co/
 
+🍺 GitHub : https://github.com/ryanlid/datecalc
+
 ```js
 console.log('当前日期', DateCalc.now);
 console.log('今天本周的第几天', DateCalc.nowDayOfWeek());
